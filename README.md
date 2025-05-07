@@ -8,3 +8,6 @@ Team Members:
 
 2. This would be a good candidate for a unit test because it tests a specific function and its output.
 
+![alt text](myError.png)
+
+![alt text](image.png)
